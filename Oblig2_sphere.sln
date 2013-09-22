@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oblig2_sphere", "Oblig2_sphere\Oblig2_sphere\Oblig2_sphere.csproj", "{9ACBE0F5-83C1-4E03-AE7D-8F37BA81C305}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Oblig2_sphereContent", "Oblig2_sphere\Oblig2_sphereContent\Oblig2_sphereContent.contentproj", "{2175BC9D-258D-45E1-8DDE-DD58C7D1DCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACBE0F5-83C1-4E03-AE7D-8F37BA81C305}.Debug|x86.ActiveCfg = Debug|x86
+		{9ACBE0F5-83C1-4E03-AE7D-8F37BA81C305}.Debug|x86.Build.0 = Debug|x86
+		{9ACBE0F5-83C1-4E03-AE7D-8F37BA81C305}.Release|x86.ActiveCfg = Release|x86
+		{9ACBE0F5-83C1-4E03-AE7D-8F37BA81C305}.Release|x86.Build.0 = Release|x86
+		{2175BC9D-258D-45E1-8DDE-DD58C7D1DCEB}.Debug|x86.ActiveCfg = Debug|x86
+		{2175BC9D-258D-45E1-8DDE-DD58C7D1DCEB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
